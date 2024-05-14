@@ -8,8 +8,6 @@
     android:background="@drawable/login_background"
     android:gravity="center"
     android:padding="16dp"
-    android:rotationX="0"
-    android:rotationY="0"
     tools:context=".Login">
 
     <LinearLayout
